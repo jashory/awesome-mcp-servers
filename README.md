@@ -518,6 +518,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - Solution to Remote MCP Communication, enabling effortless integration for centralized management of Model Context
 - [yamcp](https://github.com/hamidra/yamcp) - A Model Context Workspace Manager. Oraganize your MCP servers in local workspaces (coding, design, research, ...), scan, monitor, and integrate each workspace with AI apps via a unified CLI.
 - [ToolHive](https://github.com/StacklokLabs/toolhive) - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
+- [mcp-agent-security-auditor](https://github.com/jashory/mcp-agent-security-auditor) - Zero-dependency Python AST static taint and security scanner for MCP servers and AI agent tools, detecting command injection, SSRF, credential exfiltration, and docstring prompt injection (OWASP LLM01-LLM10) with SARIF v2.1.0 output and a [live browser AST sandbox](https://jashory.github.io/mcp-agent-security-auditor/).
 
 <br />
 
